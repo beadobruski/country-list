@@ -26,7 +26,7 @@ export function CountriesInfos({ currentCountry }: CountriesInfosProps) {
       </CountrySettings>
       <CountrySettings>
         <p>
-          Linguagem falada:{' '}
+          Idioma(s) falado(s):{' '}
           {currentCountry.languages?.map((language) => (
             <span>{language.name}</span>
           ))}
