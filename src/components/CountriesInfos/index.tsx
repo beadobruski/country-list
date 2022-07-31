@@ -21,12 +21,12 @@ export function CountriesInfos({ currentCountry }: CountriesInfosProps) {
           Moeda: <span>{currentCountry.currency}</span>
         </p>
         <p>
-          Emoji: <span>{currentCountry.emoji}</span>
+          Bandeira (emoji): <span>{currentCountry.emoji}</span>
         </p>
       </CountrySettings>
       <CountrySettings>
         <p>
-          Idioma(s) falado(s):{' '}
+          Idioma(s) falado(s){' '}
           {currentCountry.languages?.map((language) => (
             <span>{language.name}</span>
           ))}
