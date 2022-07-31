@@ -17,8 +17,12 @@ export const HomeContainer = styled.main`
 
   @media (max-width: 1190px) {
     margin: 5rem 2rem;
+    height: 100%;
   }
 
+  @media (max-width: 500px) {
+    margin: 5rem 0.8rem;
+  }
   @media (max-width: 375px) {
     margin: 5rem 0.8rem;
   }
