@@ -5,7 +5,7 @@ Tive que aprender mais sobre o GraphQL em si, como criar uma query para pegar me
 
 ## Screenshot
 
-![App Screenshot](https://i.imgur.com/GPFxA9G.gif)
+![App Screenshot](https://i.imgur.com/TSOLnO5.gif)
 
 ### Funcionalidades da aplicação:
 
